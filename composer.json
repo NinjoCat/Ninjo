@@ -2,7 +2,7 @@
     "name": "mamba/wurfl-test-api",
     "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
     "description": "WURFL, the Wireless Universal Resource FiLe, is a Device Description Repository (DDR), i.e. a software component that maps HTTP Request headers to the profile of the HTTP client (Desktop, Mobile Device, Tablet, etc.) that issued the request",
-    "version" : "1.0.0-dev",
+    "version" : "1.6.0.1",
     "authors": [
         {
             "name": "ScientiaMobile, Inc",
